@@ -12,8 +12,7 @@ User-friendly input system with real-time results.
 Error handling for invalid input.
 Simple and responsive interface.
 Technology Stack
-HTML/CSS: For the structure and styling of the app interface.
-JavaScript: For number system conversion logic and real-time interactions.
+PYTHON; app development due to its simplicity, versatility, and robust frameworks, enabling rapid prototyping and deployment across various platforms.
 Usage
 To use Number-system, simply:
 
